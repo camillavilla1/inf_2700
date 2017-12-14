@@ -1,0 +1,8 @@
+# test drop command
+create table todrop (id int);
+show database
+insert into todrop values (4);
+drop table todrop;
+show database
+quit
+

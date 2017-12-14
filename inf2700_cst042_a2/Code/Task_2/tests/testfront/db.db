@@ -1,0 +1,14 @@
+in_club 3
+Id 0 4 0
+club_id 0 4 4
+person_id 0 4 8
+1
+clubs 2
+Id 0 4 0
+name 1 19 4
+2
+people 3
+Id 0 4 0
+name 1 23 4
+num_steps 0 4 27
+4

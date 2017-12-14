@@ -1,0 +1,9 @@
+How to run the program
+
+1. Type make
+2. Run ./a.out <database>
+3. Type sql-query
+
+
+
+*2 In this assignment: inf2700_orders.sqlite3
